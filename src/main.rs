@@ -44,6 +44,9 @@ fn main() {
         Color { red: 0, green: 0, blue: 0 },
     ].iter() {
         // Hint : Fix the code so you can print it using {}
-        println!("{:?}", *color);
+        
+
+        ///For each of the {}, it will print out the color matched. Such as red, green, and blue being targeted all at once instead of all together
+        println!("red: {}, green: {}, blue: {}", color.red, color.green, color.blue);
     }
 }
