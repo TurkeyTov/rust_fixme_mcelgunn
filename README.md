@@ -4,7 +4,7 @@
 
 - Create a Github account. (If you already have one no issues)
 - Star this repository.
-- Fork this repository to your Github account.
+- Fork this repository to your Github account..
 - Clone your forked repository onto your local machine.
 (Remember don't clone my repository. You wont be able to push back the changes.)
 
